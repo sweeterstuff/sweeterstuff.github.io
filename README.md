@@ -1,2 +1,2 @@
 # sweeterstuff.github.io
-Web version of my polyhedron renderer / editor.
+Test space for web-based things I mess around with
